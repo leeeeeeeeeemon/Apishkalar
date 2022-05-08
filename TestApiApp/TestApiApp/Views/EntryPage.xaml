@@ -16,4 +16,5 @@
             <Label Text="{Binding Category}"/>
         </StackLayout>
     </ContentPage.Content>
+    
 </ContentPage>
